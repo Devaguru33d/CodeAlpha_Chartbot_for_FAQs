@@ -1,0 +1,46 @@
+[
+  {"question": "Hi", "answer": "Hello! How can I help you today?"},
+  {"question": "Hello", "answer": "Hi there! What can I do for you?"},
+  {"question": "Hey", "answer": "Hey! How can I assist you?"},
+
+  {"question": "Where is my order?", "answer": "You can track your order in the Orders section."},
+  {"question": "Track my order", "answer": "Please go to Orders to track your shipment."},
+  {"question": "Order status", "answer": "Your order status is available in your account under Orders."},
+
+  {"question": "How to return a product?", "answer": "Go to your orders and click on return option."},
+  {"question": "Return item", "answer": "You can return items from your orders page."},
+  {"question": "Can I return my order?", "answer": "Yes, returns are available within 7 days of delivery."},
+
+  {"question": "How long does delivery take?", "answer": "Delivery usually takes 3 to 5 days."},
+  {"question": "Delivery time", "answer": "Standard delivery is within 3-5 business days."},
+  {"question": "When will my order arrive?", "answer": "Your order will arrive within the estimated delivery time."},
+
+  {"question": "What payment methods are available?", "answer": "We accept UPI, debit/credit cards, and net banking."},
+  {"question": "Can I pay using UPI?", "answer": "Yes, UPI payments are supported."},
+  {"question": "Cash on delivery available?", "answer": "Yes, Cash on Delivery is available for selected items."},
+
+  {"question": "Can I cancel my order?", "answer": "Yes, you can cancel before the item is shipped."},
+  {"question": "Cancel my order", "answer": "Go to your orders and select cancel option."},
+
+  {"question": "Refund status", "answer": "Refund will be processed within 5-7 business days."},
+  {"question": "When will I get refund?", "answer": "Refunds are credited within 7 days after approval."},
+
+  {"question": "is there any discounts?", "answer": "Check our offers page for latest discounts."},
+  {"question": "Any offers available?", "answer": "Yes, we have seasonal offers and coupons."},
+
+  {"question": "Do you deliver to my location?", "answer": "We deliver to most locations. Enter your pincode to check."},
+  {"question": "Shipping charges", "answer": "Shipping is free for orders above ₹500."},
+
+  {"question": "How to contact support?", "answer": "You can contact us via email or customer care number."},
+  {"question": "Customer care number", "answer": "Call us at 1800-123-456."},
+
+  {"question": "Do you have warranty?", "answer": "Yes, products come with manufacturer warranty."},
+  {"question": "Product damaged", "answer": "Please request a return or replacement immediately."},
+
+  {"question": "Login issue", "answer": "Try resetting your password or contact support."},
+  {"question": "Forgot password", "answer": "Click on 'Forgot Password' to reset your password."},
+
+  {"question": "App not working", "answer": "Please update the app or reinstall it."},
+  {"question": "Website not loading", "answer": "Check your internet connection or try again later."},
+  {"question": "thank you", "answer": "You are welcome. I am glad I could assist you."}
+]
